@@ -1,0 +1,1 @@
+[{"product":"mesa","price":1500,"id":1},{"product":"escalera","price":3000,"id":2},{"product":"pinza","price":580,"id":3},{"product":"pico de loro","price":3000,"id":4}]
